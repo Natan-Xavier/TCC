@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(to bottom left, #2c1044, 35%, #000 65%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.caixa-log{
+    background-color: #905787;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 300px;
+    width: auto;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+
+.form-label{
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; 
+    font-size: x-large;  
+}
+
+#userLogin{
+    width: 85%;
+    text-align: left;
+    font-size: medium; 
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+
+
+}
+#userPassword{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 85%;
+    text-align: left;
+    font-size: medium; 
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.button-login{
+    background-color: #0c4259;
+    text-align: center;
+    margin-left: 35%;
+    text-align: center; 
+    width: 70px;
+    height: 50px;
+}
+.esqueci{
+    margin-left: 10px;
+    color: blue;
+}
+p{
+    margin-left: 10px;
+}
+.link-cad{
+    color: blue;
+}

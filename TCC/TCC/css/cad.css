@@ -1,0 +1,84 @@
+.form-check{
+    margin-bottom: 8px;
+}
+
+body{
+    background: linear-gradient(to bottom left, #2c1044, 35%, #000 65%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.caixa-log{
+    background-color: #905787;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 300px;
+    width: auto;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+
+.form-label{
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; 
+    font-size: x-large;  
+}
+
+#userLogin{
+    width: 90%;
+    text-align: left;
+    font-size: medium; 
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+
+
+}
+#cadPassword{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 90%;
+    text-align: left;
+    font-size: medium; 
+    margin-left: 10px;
+    padding-left: 10px;
+}
+#cadConfPassword{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 90%;
+    text-align: left;
+    font-size: medium; 
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.button-login{
+    background-color: #0c4259;
+    text-align: center;
+    margin-left: 30%;
+    text-align: center; 
+    width: 100px;
+    height: 50px;
+}
+.esqueci{
+    margin-left: 10px;
+    color: blue;
+}
+p{
+    margin-left: 10px;
+}
+.link-log{
+    margin-left: 10px;
+    color: blue;
+}
+.imgCad{
+    padding: 0px 10px 0px 10px;
+    margin-left: 7%;
+}
+.Images{
+    height: auto;
+    width: 15%;
+}
